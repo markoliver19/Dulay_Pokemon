@@ -11,6 +11,6 @@ npm install
 npm start
 
 FRONTEND REACT
-cd nodejs-pokemon-mongodb/React-Pokemon-Crud
+cd nodejs-mongodb-crud/React-Pokemon-Crud
 npm install
 npm run dev
